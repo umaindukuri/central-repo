@@ -1,1 +1,7 @@
-iam working on git
+<<<<<<< HEAD
+iam working on git.
+this is fine
+
+=======
+this is devops course
+>>>>>>> branch1
